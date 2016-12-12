@@ -1,1 +1,6 @@
-"angularw-webpack" 
+## angular-webpack ##
+
+ - npm install
+ - npm start
+ - browse to http://localhost:8989
+
